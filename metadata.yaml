@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42568
     wikipedia: http://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E4%BB%81%E5%A4%AA%E9%83%8E
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44093#Tokio---BerlinVon-der-japanischen-zur-deutschen-Kaiserstadt
 gutenberg_issued: '2013-11-02'
 gutenberg_type: Text
 identifiers:
