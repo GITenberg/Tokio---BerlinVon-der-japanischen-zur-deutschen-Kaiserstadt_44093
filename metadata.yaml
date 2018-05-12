@@ -1,0 +1,30 @@
+_repo: Tokio---BerlinVon-der-japanischen-zur-deutschen-Kaiserstadt_44093
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44093-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Omura, Jintaro
+    alias: 大村仁太郎
+    birthdate: 1863
+    deathdate: 1907
+    gutenberg_agent_id: '42568'
+    url: http://www.gutenberg.org/2009/agents/42568
+    wikipedia: http://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E4%BB%81%E5%A4%AA%E9%83%8E
+description: ''
+gutenberg_issued: '2013-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44093'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Asia -- Description and travel'
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'D'
+title: 'Tokio - Berlin: Von der japanischen zur deutschen Kaiserstadt'
+url: http://www.gutenberg.org/ebooks/44093
